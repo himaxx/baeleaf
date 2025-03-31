@@ -1,0 +1,1636 @@
+{
+
+"categories": [
+
+{
+
+"name": "Pastas",
+
+"dishes": [
+
+{
+
+"name": "White Sauce Pasta (Penne/Macaroni)",
+
+"price": "₹170",
+
+"description": "Indulge in our creamy White Sauce Pasta, where perfectly al dente penne or macaroni is enveloped in a rich, velvety béchamel sauce infused with aromatic herbs. Finished with a sprinkle of fresh parsley and grated parmesan cheese for an authentic Italian experience.",
+
+"tags": ["Vegetarian"],
+
+"image": "White Sauce Pasta (Penne/Macaroni).jpg"
+
+},
+
+{
+
+"name": "Red Sauce Pasta (Penne/Macaroni)",
+
+"price": "₹170",
+
+"description": "Savor our classic Red Sauce Pasta, featuring al dente penne or macaroni tossed in a vibrant, slow-simmered tomato sauce with garlic, basil, and a hint of chili for a subtle kick.",
+
+"tags": ["Vegetarian"],
+
+"image": "Red Sauce Pasta (Penne/Macaroni).jpg"
+
+},
+
+{
+
+"name": "Pink Sauce Pasta (Penne/Macaroni)",
+
+"price": "₹190",
+
+"description": "Experience the best of both worlds with our Pink Sauce Pasta, a harmonious blend of creamy white sauce and tangy tomato sauce, creating a luscious rose-colored sauce that clings to every piece of pasta.",
+
+"tags": ["Vegetarian"],
+
+"image": "Pink Sauce Pasta (Penne/Macaroni).jpg"
+
+},
+
+{
+
+"name": "Stuffed Capsicum",
+
+"price": "₹210",
+
+"description": "Delight in our Stuffed Capsicum, where tender bell peppers are filled with a savory mixture of seasoned pasta, vegetables, and cheese, then baked to perfection.",
+
+"tags": ["Vegetarian"],
+
+"image": "Stuffed Capsicum.jpg"
+
+},
+
+{
+
+"name": "Alfredo Pasta",
+
+"price": "₹210",
+
+"description": "Indulge in our rich and creamy Alfredo Pasta, where fettuccine is coated in a luxurious sauce made from butter, cream, and Parmesan cheese, garnished with fresh parsley.",
+
+"tags": ["Vegetarian"],
+
+"image": "Alfredo Pasta.jpg"
+
+},
+
+{
+
+"name": "Lasagna",
+
+"price": "₹230",
+
+"description": "Layers of pasta sheets, rich tomato sauce, creamy béchamel, and a blend of cheeses, baked to golden perfection. Our Lasagna is a hearty and comforting dish that will transport you to Italy.",
+
+"tags": ["Vegetarian"],
+
+"image": "Lasagna.jpg"
+
+},
+
+{
+
+"name": "Pesto Penne",
+
+"price": "₹230",
+
+"description": "Tossed in a vibrant green pesto sauce made from fresh basil, pine nuts, garlic, and Parmesan cheese, our Pesto Penne is a burst of herbaceous flavor in every bite.",
+
+"tags": ["Vegetarian"],
+
+"image": "Pesto Penne.jpg"
+
+},
+
+{
+
+"name": "Veggie a La King",
+
+"price": "₹230",
+
+"description": "Our Veggie a La King features a medley of vegetables in a creamy, savory sauce, served over your choice of pasta.",
+
+"tags": ["Vegetarian"],
+
+"image": "Veggie a La King.jpg"
+
+},
+
+{
+
+"name": "Baked Macaroni",
+
+"price": "₹280",
+
+"description": "A comforting classic, our Baked Macaroni is smothered in a rich cheese sauce and baked until bubbly and golden brown, with a crispy breadcrumb topping for added texture.",
+
+"tags": ["Vegetarian"],
+
+"image": "Baked Macaroni.jpg"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Pizzas",
+
+"dishes": [
+
+{
+
+"name": "Margherita Pizza",
+
+"price": "₹190",
+
+"description": "A classic Italian pizza with a thin, crispy crust, topped with our signature tomato sauce, fresh buffalo mozzarella, and fragrant basil leaves. Drizzled with extra virgin olive oil and baked to perfection in our stone oven for authentic flavor.",
+
+"tags": ["Vegetarian"],
+
+"image": "Margherita Pizza.jpg"
+
+},
+
+{
+
+"name": "Veg Pizza",
+
+"price": "₹220",
+
+"description": "Our Veg Pizza is loaded with a colorful array of fresh vegetables including bell peppers, onions, tomatoes, and olives, all atop a bed of melted mozzarella and our house-made tomato sauce.",
+
+"tags": ["Vegetarian"],
+
+"image": "Veg Pizza.jpg"
+
+},
+
+{
+
+"name": "Cheese Tomato Pizza",
+
+"price": "₹220",
+
+"description": "Featuring juicy tomato slices and a blend of cheeses on our signature crust, this pizza celebrates the classic pairing of cheese and tomatoes.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cheese Tomato Pizza.jpg"
+
+},
+
+{
+
+"name": "Cheese Corn Pizza",
+
+"price": "₹220",
+
+"description": "Sweet corn kernels and stretchy mozzarella cheese come together on this delightful pizza, offering a perfect balance of sweetness and savoriness.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cheese Corn Pizza.jpg"
+
+},
+
+{
+
+"name": "Paneer Pizza",
+
+"price": "₹280",
+
+"description": "Soft cubes of paneer marinated in spices, combined with onions, bell peppers, and cheese, creating a fusion of Indian and Italian flavors.",
+
+"tags": ["Vegetarian"],
+
+"image": "Paneer Pizza.jpg"
+
+},
+
+{
+
+"name": "Cheese Burst Pizza",
+
+"price": "₹320",
+
+"description": "Indulge in our Cheese Burst Pizza, where a layer of creamy cheese is hidden within the crust, oozing with every bite, topped with your favorite vegetables and more cheese.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cheese Burst Pizza.jpg"
+
+},
+
+{
+
+"name": "Tandoori Pizza",
+
+"price": "₹280",
+
+"description": "A unique blend of tandoori spices and classic pizza, featuring tandoori-marinated vegetables or paneer, with a spicy kick.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Tandoori Pizza.jpg"
+
+},
+
+{
+
+"name": "Baeleaf's Special Pizza",
+
+"price": "₹350",
+
+"description": "Our chef's signature creation, featuring a secret blend of toppings and sauces that will surprise and delight your taste buds.",
+
+"tags": ["Vegetarian", "Chef's Special"],
+
+"image": "Baeleaf's Special Pizza.jpg"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Chinese",
+
+"dishes": [
+
+{
+
+"name": "Fried Rice",
+
+"price": "₹130",
+
+"description": "A staple of Chinese cuisine, our Fried Rice is wok-tossed with vegetables, soy sauce, and aromatic spices, delivering a perfect balance of flavors.",
+
+"tags": ["Vegetarian"],
+
+"image": "Fried Rice.jpg"
+
+},
+
+{
+
+"name": "Manchurian with Fried Rice",
+
+"price": "₹140",
+
+"description": "Crispy vegetable balls in a tangy Manchurian sauce, served alongside our classic Fried Rice for a complete meal.",
+
+"tags": ["Vegetarian"],
+
+"image": "Manchurian with Fried Rice.jpg"
+
+},
+
+{
+
+"name": "Singapore Fried Rice",
+
+"price": "₹150",
+
+"description": "A flavorful twist on traditional fried rice, infused with curry powder and mixed with vegetables, offering a taste of Singapore's street food.",
+
+"tags": ["Vegetarian"],
+
+"image": "Singapore Fried Rice.jpg"
+
+},
+
+{
+
+"name": "Noodles",
+
+"price": "₹150",
+
+"description": "Stir-fried noodles with vegetables and soy sauce, simple yet satisfying.",
+
+"tags": ["Vegetarian"],
+
+"image": "Noodles.jpg"
+
+},
+
+{
+
+"name": "Veg Chow Mein",
+
+"price": "₹150",
+
+"description": "Thin noodles stir-fried with shredded vegetables in a savory sauce.",
+
+"tags": ["Vegetarian"],
+
+"image": "Veg Chow Mein.jpg"
+
+},
+
+{
+
+"name": "Hakka Noodles",
+
+"price": "₹150",
+
+"description": "A popular Indo-Chinese dish, featuring noodles tossed with vegetables and a hint of spice.",
+
+"tags": ["Vegetarian"],
+
+"image": "Hakka Noodles.jpg"
+
+},
+
+{
+
+"name": "American Chop Suey",
+
+"price": "₹150",
+
+"description": "Crispy fried noodles topped with a sweet and tangy sauce and vegetables, an Indo-Chinese favorite.",
+
+"tags": ["Vegetarian"],
+
+"image": "American Chop Suey.jpg"
+
+},
+
+{
+
+"name": "Singapore Noodles",
+
+"price": "₹150",
+
+"description": "Rice vermicelli stir-fried with curry powder, vegetables, and sometimes tofu, inspired by Singaporean cuisine.",
+
+"tags": ["Vegetarian"],
+
+"image": "Singapore Noodles.jpg"
+
+},
+
+{
+
+"name": "Manchurian",
+
+"price": "₹150",
+
+"description": "Vegetable dumplings in a spicy, garlicky sauce, a beloved Indo-Chinese appetizer.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Manchurian.jpg"
+
+},
+
+{
+
+"name": "Chinese Bhel",
+
+"price": "₹150",
+
+"description": "A fusion snack where crispy noodles are mixed with vegetables and tangy sauces, perfect for a quick bite.",
+
+"tags": ["Vegetarian"],
+
+"image": "Chinese Bhel.jpg"
+
+},
+
+{
+
+"name": "Honey Chilly Potato",
+
+"price": "₹150",
+
+"description": "Crispy potato fingers tossed in a sweet and spicy honey chili sauce, a delightful starter.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Honey Chilly Potato.jpg"
+
+},
+
+{
+
+"name": "Gobhi Chilly Potato",
+
+"price": "₹150",
+
+"description": "Crispy cauliflower and potato tossed in a spicy chili sauce, a flavorful combination.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Gobhi Chilly Potato.jpg"
+
+},
+
+{
+
+"name": "Schezwan Noodle",
+
+"price": "₹150",
+
+"description": "Noodles stir-fried with Schezwan sauce, known for its bold and spicy flavor.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Schezwan Noodle.jpg"
+
+},
+
+{
+
+"name": "Chilly Paneer",
+
+"price": "₹190",
+
+"description": "Paneer cubes sautéed with bell peppers and onions in a spicy chili sauce.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Chilly Paneer.jpg"
+
+},
+
+{
+
+"name": "Paneer 65",
+
+"price": "₹190",
+
+"description": "Spicy and tangy paneer dish, marinated and fried, then tossed with curry leaves and spices.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Paneer 65.jpg"
+
+},
+
+{
+
+"name": "Noodle with Manchurian",
+
+"price": "₹200",
+
+"description": "A combination of stir-fried noodles and vegetable Manchurian, offering the best of both worlds.",
+
+"tags": ["Vegetarian"],
+
+"image": "Noodle with Manchurian.jpg"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Maggi",
+
+"dishes": [
+
+{
+
+"name": "Plain Masala Magge",
+
+"price": "₹60",
+
+"description": "The classic instant noodles cooked with the signature masala spice mix, a comfort food favorite.",
+
+"tags": ["Vegetarian"],
+
+"image": "Plain Masala Maggi.jpg"
+
+},
+
+{
+
+"name": "Double Masala Maggi",
+
+"price": "₹90",
+
+"description": "Twice the flavor with extra masala, for those who love their Maggie extra spicy.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Double Masala Maggi.jpg"
+
+},
+
+{
+
+"name": "Cheese Maggi",
+
+"price": "₹100",
+
+"description": "Creamy and cheesy, this Maggie is topped with melted cheese for added richness.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cheese Maggi.jpg"
+
+},
+
+{
+
+"name": "Vegetable Maggi",
+
+"price": "₹100",
+
+"description": "Loaded with fresh vegetables like carrots, peas, and bell peppers, making it more nutritious and colorful.",
+
+"tags": ["Vegetarian"],
+
+"image": "Vegetable Maggi.jpg"
+
+},
+
+{
+
+"name": "Paneer Maggi",
+
+"price": "₹120",
+
+"description": "Soft paneer cubes added to the noodles, providing a protein boost and extra texture.",
+
+"tags": ["Vegetarian"],
+
+"image": "Paneer Maggi.jpg"
+
+},
+
+{
+
+"name": "Tandoori Maggi",
+
+"price": "₹150",
+
+"description": "Infused with tandoori spices, giving the noodles a smoky and aromatic flavor.",
+
+"tags": ["Vegetarian", "Chef's Special"],
+
+"image": "Tandoori Maggi.jpg"
+
+},
+
+{
+
+"name": "Cheese Corn Maggi",
+
+"price": "₹150",
+
+"description": "A delightful combination of sweet corn and melted cheese in every bite.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cheese Corn Maggi.jpg"
+
+},
+
+{
+
+"name": "Punjabi Tadka Maggi",
+
+"price": "₹150",
+
+"description": "Spiced with Punjabi flavors, featuring a tempering of cumin, onions, and tomatoes.",
+
+"tags": ["Vegetarian", "Chef's Special"],
+
+"image": "Punjabi Tadka Maggi.jpg"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Sandwiches",
+
+"dishes": [
+
+{
+
+"name": "Bombay Sandwich",
+
+"price": "₹60",
+
+"description": "A street food classic from Mumbai, featuring layers of vegetables, chutney, and spices between slices of bread.",
+
+"tags": ["Vegetarian"],
+
+"image": "Bombay Sandwich.jpg"
+
+},
+
+{
+
+"name": "Veg Grilled Sandwich",
+
+"price": "₹70",
+
+"description": "Grilled to perfection, this sandwich is packed with fresh vegetables and cheese, with a crispy exterior.",
+
+"tags": ["Vegetarian"],
+
+"image": "Veg Grilled Sandwich.jpg"
+
+},
+
+{
+
+"name": "Cheese Chutney Sandwich",
+
+"price": "₹90",
+
+"description": "A simple yet flavorful sandwich with a spread of green chutney and generous cheese.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cheese Chutney Sandwich.jpg"
+
+},
+
+{
+
+"name": "Cheese Corn Sandwich",
+
+"price": "₹90",
+
+"description": "Sweet corn and cheese make for a delightful filling in this grilled sandwich.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cheese Corn Sandwich.jpg"
+
+},
+
+{
+
+"name": "Tandoori Sandwich",
+
+"price": "₹90",
+
+"description": "Filled with tandoori-spiced vegetables or paneer, offering a smoky and spicy twist.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Tandoori Sandwich.jpg"
+
+},
+
+{
+
+"name": "Paneer Sandwich",
+
+"price": "₹100",
+
+"description": "Soft paneer slices with vegetables and spices, grilled to perfection.",
+
+"tags": ["Vegetarian"],
+
+"image": "Paneer Sandwich.jpg"
+
+},
+
+{
+
+"name": "Club Sandwich",
+
+"price": "₹120",
+
+"description": "A triple-decker sandwich with layers of vegetables, cheese, and special sauces, served with chips.",
+
+"tags": ["Vegetarian"],
+
+"image": "Club Sandwich.jpg"
+
+},
+
+{
+
+"name": "Baeleaf's Special Sandwich",
+
+"price": "₹140",
+
+"description": "Our signature sandwich with a unique combination of ingredients, crafted by our chef.",
+
+"tags": ["Vegetarian", "Chef's Special"],
+
+"image": "Baeleaf's Special Sandwich.jpg"
+
+},
+
+{
+
+"name": "Chef Styled Sandwich",
+
+"price": "₹140",
+
+"description": "A creative sandwich designed by our chef, featuring premium ingredients and flavors.",
+
+"tags": ["Vegetarian", "Chef's Special"],
+
+"image": "Chef Styled Sandwich.jpg"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Burgers",
+
+"dishes": [
+
+{
+
+"name": "Aloo Tikki Burger",
+
+"price": "₹59",
+
+"description": "A crispy potato patty with Indian spices, served in a bun with lettuce, tomato, and sauce. Add cheese for ₹20 extra.",
+
+"tags": ["Vegetarian"],
+
+"image": "Aloo Tikki Burger.jpg"
+
+},
+
+{
+
+"name": "Veg Tikki Burger",
+
+"price": "₹79",
+
+"description": "A vegetable patty made with mixed vegetables and spices, offering a hearty bite. Add cheese for ₹20 extra.",
+
+"tags": ["Vegetarian"],
+
+"image": "Veg Tikki Burger.jpg"
+
+},
+
+{
+
+"name": "Paneer Burger",
+
+"price": "₹99",
+
+"description": "A grilled paneer patty with tandoori marinade, topped with onions and mint chutney. Add cheese for ₹20 extra.",
+
+"tags": ["Vegetarian"],
+
+"image": "Paneer Burger.jpg"
+
+},
+
+{
+
+"name": "Tandoori Burger",
+
+"price": "₹99",
+
+"description": "Featuring a tandoori-spiced patty, either vegetable or paneer, with a smoky flavor. Add cheese for ₹20 extra.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Tandoori Burger.jpg"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Sizzlers",
+
+"dishes": [
+
+{
+
+"name": "Chocolate Sizzlers",
+
+"price": "₹220",
+
+"description": "A decadent dessert sizzler featuring warm chocolate brownie or cake, served on a hot plate with ice cream and chocolate sauce, creating a dramatic presentation.",
+
+"tags": ["Vegetarian", "Chef's Special"],
+
+"image": "Chocolate Sizzlers.jpg"
+
+},
+
+{
+
+"name": "Chinese Sizzlers",
+
+"price": "₹320",
+
+"description": "A sizzling platter of Chinese-inspired dishes, including noodles, rice, and Manchurian, served with a variety of sauces.",
+
+"tags": ["Vegetarian"],
+
+"image": "Chinese Sizzlers.jpg"
+
+},
+
+{
+
+"name": "Italian Sizzlers",
+
+"price": "₹320",
+
+"description": "An Italian twist on the sizzler, featuring pasta, garlic bread, and grilled vegetables, all served on a hot plate.",
+
+"tags": ["Vegetarian"],
+
+"image": "Italian Sizzlers.jpg"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Hot Coffee & Tea",
+
+"dishes": [
+
+{
+
+"name": "Plain Chai",
+
+"price": "₹20",
+
+"description": "A simple yet comforting cup of Indian tea, brewed with milk and sugar.",
+
+"tags": ["Vegetarian"],
+
+"image": "Plain Chai.jpg"
+
+},
+
+{
+
+"name": "Adrak Chai",
+
+"price": "₹25",
+
+"description": "Ginger-infused tea, perfect for a soothing and warming experience.",
+
+"tags": ["Vegetarian"],
+
+"image": "Adrak Chai.jpg"
+
+},
+
+{
+
+"name": "Elaichi Chai",
+
+"price": "₹25",
+
+"description": "Cardamom-flavored tea, aromatic and refreshing.",
+
+"tags": ["Vegetarian"],
+
+"image": "Elaichi Chai.jpg"
+
+},
+
+{
+
+"name": "Masala Chai",
+
+"price": "₹25",
+
+"description": "A blend of spices like cinnamon, cloves, and cardamom in your tea, for a rich and flavorful drink.",
+
+"tags": ["Vegetarian"],
+
+"image": "Masala Chai.jpg"
+
+},
+
+{
+
+"name": "Mangal Chai",
+
+"price": "₹30",
+
+"description": "Our unique Mangal Chai, with a secret mix of spices for a delightful taste.",
+
+"tags": ["Vegetarian", "Chef's Special"],
+
+"image": "Mangal Chai.jpg"
+
+},
+
+{
+
+"name": "Saffron Chai",
+
+"price": "₹30",
+
+"description": "Luxurious tea infused with saffron strands, offering a royal experience.",
+
+"tags": ["Vegetarian"],
+
+"image": "Saffron Chai.jpg"
+
+},
+
+{
+
+"name": "Hot Lemon Honey Ginger",
+
+"price": "₹30",
+
+"description": "A soothing drink with lemon, honey, and ginger, perfect for relaxation.",
+
+"tags": ["Vegetarian"],
+
+"image": "Hot Lemon Honey Ginger.jpg"
+
+},
+
+{
+
+"name": "Lemon Tea",
+
+"price": "₹30",
+
+"description": "Black tea with a squeeze of lemon, refreshing and tangy.",
+
+"tags": ["Vegetarian"],
+
+"image": "Lemon Tea.jpg"
+
+},
+
+{
+
+"name": "Mint Tea",
+
+"price": "₹30",
+
+"description": "Fresh mint leaves steeped in hot water, a cooling and aromatic beverage.",
+
+"tags": ["Vegetarian"],
+
+"image": "Mint Tea.jpg"
+
+},
+
+{
+
+"name": "Indian Espresso",
+
+"price": "₹50",
+
+"description": "A bold and intense coffee shot, inspired by Indian brewing methods.",
+
+"tags": ["Vegetarian"],
+
+"image": "Indian Espresso.jpg"
+
+},
+
+{
+
+"name": "Cappuccino",
+
+"price": "₹60",
+
+"description": "Espresso with steamed milk and foam, a classic Italian coffee.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cappuccino.jpg"
+
+},
+
+{
+
+"name": "Latte",
+
+"price": "₹60",
+
+"description": "Espresso with steamed milk, smooth and creamy.",
+
+"tags": ["Vegetarian"],
+
+"image": "Latte.jpg"
+
+},
+
+{
+
+"name": "Special Coffee",
+
+"price": "₹70",
+
+"description": "Our chef's special coffee creation, with unique flavors and presentation.",
+
+"tags": ["Vegetarian", "Chef's Special"],
+
+"image": "Special Coffee.jpg"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Mojito",
+
+"dishes": [
+
+{
+
+"name": "Blue Heaven",
+
+"price": "₹90",
+
+"description": "A vibrant blue mojito with a mysterious and delightful flavor profile.",
+
+"tags": ["Vegetarian", "Non-Alcoholic"],
+
+"image": "Blue Heaven.jpg"
+
+},
+
+{
+
+"name": "Bubblegum",
+
+"price": "₹90",
+
+"description": "A fun and playful mojito with the sweet taste of bubblegum.",
+
+"tags": ["Vegetarian", "Non-Alcoholic"],
+
+"image": "Bubblegum.jpg"
+
+},
+
+{
+
+"name": "Mint",
+
+"price": "₹110",
+
+"description": "A refreshing mint mojito, perfect for cooling down.",
+
+"tags": ["Vegetarian", "Non-Alcoholic"],
+
+"image": "Mint.jpg"
+
+},
+
+{
+
+"name": "Strawberry Fizz",
+
+"price": "₹110",
+
+"description": "A fizzy mojito with fresh strawberry puree, sweet and tangy.",
+
+"tags": ["Vegetarian", "Non-Alcoholic"],
+
+"image": "Strawberry Fizz.jpg"
+
+},
+
+{
+
+"name": "Green Apple",
+
+"price": "₹120",
+
+"description": "Crisp and tart green apple flavor in a refreshing mojito.",
+
+"tags": ["Vegetarian", "Non-Alcoholic"],
+
+"image": "Green Apple.jpg"
+
+},
+
+{
+
+"name": "Raspberry Mojito",
+
+"price": "₹120",
+
+"description": "Tangy raspberry combined with mint and lime for a fruity twist.",
+
+"tags": ["Vegetarian", "Non-Alcoholic"],
+
+"image": "Raspberry Mojito.jpg"
+
+},
+
+{
+
+"name": "Watermelon",
+
+"price": "₹130",
+
+"description": "Juicy watermelon mojito, perfect for summer.",
+
+"tags": ["Vegetarian", "Non-Alcoholic"],
+
+"image": "Watermelon.jpg"
+
+},
+
+{
+
+"name": "Virgin Mojito",
+
+"price": "₹130",
+
+"description": "The classic non-alcoholic mojito with mint, lime, sugar, and soda water.",
+
+"tags": ["Vegetarian", "Non-Alcoholic"],
+
+"image": "Virgin Mojito.jpg"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Shakes",
+
+"dishes": [
+
+{
+
+"name": "Vanilla Shake",
+
+"price": "₹100",
+
+"description": "A creamy and smooth vanilla milkshake, made with real vanilla beans.",
+
+"tags": ["Vegetarian"],
+
+"image": "Vanilla Shake.jpg"
+
+},
+
+{
+
+"name": "Chocolate Shake",
+
+"price": "₹100",
+
+"description": "Rich and indulgent chocolate shake, perfect for chocolate lovers.",
+
+"tags": ["Vegetarian"],
+
+"image": "Chocolate Shake.jpg"
+
+},
+
+{
+
+"name": "Chocolate Shake with Ice Cream",
+
+"price": "₹120",
+
+"description": "Our chocolate shake topped with a scoop of vanilla ice cream for extra decadence.",
+
+"tags": ["Vegetarian"],
+
+"image": "Chocolate Shake with Ice Cream.jpg"
+
+},
+
+{
+
+"name": "Mango Shake",
+
+"price": "₹120",
+
+"description": "Seasonal mangoes blended into a thick and fruity shake.",
+
+"tags": ["Vegetarian"],
+
+"image": "Mango Shake.jpg"
+
+},
+
+{
+
+"name": "Oreo Shake",
+
+"price": "₹130",
+
+"description": "Cookies and cream in a shake, with crushed Oreos mixed in.",
+
+"tags": ["Vegetarian"],
+
+"image": "Oreo Shake.jpg"
+
+},
+
+{
+
+"name": "Kitkat Shake",
+
+"price": "₹130",
+
+"description": "Chocolatey Kitkat pieces blended into a milkshake, with a crunchy surprise.",
+
+"tags": ["Vegetarian"],
+
+"image": "Kitkat Shake.jpg"
+
+},
+
+{
+
+"name": "Sitafal Shake",
+
+"price": "₹130",
+
+"description": "Custard apple (sitafal) pulp blended into a unique and flavorful shake.",
+
+"tags": ["Vegetarian"],
+
+"image": "Sitafal Shake.jpg"
+
+},
+
+{
+
+"name": "Strawberry Shake",
+
+"price": "₹130",
+
+"description": "Fresh strawberries make this shake sweet and refreshing.",
+
+"tags": ["Vegetarian"],
+
+"image": "Strawberry Shake.jpg"
+
+},
+
+{
+
+"name": "Papita Shake",
+
+"price": "₹130",
+
+"description": "Papaya shake, creamy and tropical.",
+
+"tags": ["Vegetarian"],
+
+"image": "Papita Shake.jpg"
+
+},
+
+{
+
+"name": "Chiku Shake",
+
+"price": "₹130",
+
+"description": "Sapodilla fruit (chiku) blended into a sweet and exotic shake.",
+
+"tags": ["Vegetarian"],
+
+"image": "Chiku Shake.jpg"
+
+},
+
+{
+
+"name": "Chia Seeds Shake",
+
+"price": "₹140",
+
+"description": "A healthy twist with chia seeds added to your choice of shake, providing extra nutrition.",
+
+"tags": ["Vegetarian"],
+
+"image": "Chia Seeds Shake.jpg"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Cold Coffee",
+
+"dishes": [
+
+{
+
+"name": "Cold Coffee",
+
+"price": "₹100",
+
+"description": "Chilled coffee blended with milk and sugar, a refreshing pick-me-up.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cold Coffee.jpg"
+
+},
+
+{
+
+"name": "Cold Coffee with Brownie",
+
+"price": "₹110",
+
+"description": "Our cold coffee served with a piece of chocolate brownie on the side.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cold Coffee with Brownie.jpg"
+
+},
+
+{
+
+"name": "Cold Coffee with Ice Cream",
+
+"price": "₹110",
+
+"description": "Cold coffee topped with a scoop of vanilla ice cream, creamy and delicious.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cold Coffee with Ice Cream.jpg"
+
+},
+
+{
+
+"name": "Gulkand Cold Coffee",
+
+"price": "₹120",
+
+"description": "A unique twist with the addition of gulkand (rose petal jam), adding a floral note to your cold coffee.",
+
+"tags": ["Vegetarian", "Chef's Special"],
+
+"image": "Gulkand Cold Coffee.jpg"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Frappe",
+
+"dishes": [
+
+{
+
+"name": "Vanilla Frappe",
+
+"price": "₹130",
+
+"description": "A blended ice coffee drink with vanilla flavor, topped with whipped cream.",
+
+"tags": ["Vegetarian"],
+
+"image": "Vanilla Frappe.jpg"
+
+},
+
+{
+
+"name": "Caramel Frappe",
+
+"price": "₹130",
+
+"description": "Sweet caramel syrup blended into a frappe, with a drizzle of caramel on top.",
+
+"tags": ["Vegetarian"],
+
+"image": "Caramel Frappe.jpg"
+
+},
+
+{
+
+"name": "Hazelnut Frappe",
+
+"price": "₹130",
+
+"description": "Nutty hazelnut flavor in a chilled frappe, perfect for nut lovers.",
+
+"tags": ["Vegetarian"],
+
+"image": "Hazelnut Frappe.jpg"
+
+},
+
+{
+
+"name": "Irish Frappe",
+
+"price": "₹130",
+
+"description": "A frappe with the flavors of Irish cream, rich and indulgent.",
+
+"tags": ["Vegetarian"],
+
+"image": "Irish Frappe.jpg"
+
+}
+
+]
+
+},
+
+{
+
+"name": "Others",
+
+"dishes": [
+
+{
+
+"name": "Maska Bun",
+
+"price": "₹50",
+
+"description": "A soft bun slathered with butter, a simple yet satisfying snack.",
+
+"tags": ["Vegetarian"],
+
+"image": "Maska Bun.jpg"
+
+},
+
+{
+
+"name": "Salted French Fries",
+
+"price": "₹70",
+
+"description": "Classic crispy fries with a sprinkle of salt.",
+
+"tags": ["Vegetarian"],
+
+"image": "Salted French Fries.jpg"
+
+},
+
+{
+
+"name": "Masala French Fries",
+
+"price": "₹80",
+
+"description": "Fries tossed in Indian spices for an extra kick.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Masala French Fries.jpg"
+
+},
+
+{
+
+"name": "Peri Peri French Fries",
+
+"price": "₹100",
+
+"description": "Spicy peri peri seasoning on crispy fries.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Peri Peri French Fries.jpg"
+
+},
+
+{
+
+"name": "Tandoori French Fries",
+
+"price": "₹100",
+
+"description": "Fries marinated in tandoori spices, offering a unique flavor.",
+
+"tags": ["Vegetarian", "Spicy"],
+
+"image": "Tandoori French Fries.jpg"
+
+},
+
+{
+
+"name": "Cheese Garlic Toast",
+
+"price": "₹120",
+
+"description": "Toasted bread with garlic butter and melted cheese.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cheese Garlic Toast.jpg"
+
+},
+
+{
+
+"name": "Cheese Balls",
+
+"price": "₹120",
+
+"description": "Deep-fried balls of cheese, crispy on the outside, gooey inside.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cheese Balls.jpg"
+
+},
+
+{
+
+"name": "Cheese Meshed Potatoes",
+
+"price": "₹120",
+
+"description": "Creamy mashed potatoes topped with melted cheese.",
+
+"tags": ["Vegetarian"],
+
+"image": "Cheese Meshed Potatoes.jpg"
+
+},
+
+{
+
+"name": "Kaathi Rolls",
+
+"price": "₹140",
+
+"description": "Indian-style wraps with vegetables or paneer, spices, and chutney.",
+
+"tags": ["Vegetarian"],
+
+"image": "Kaathi Rolls.jpg"
+
+},
+
+{
+
+"name": "Crispy Corn",
+
+"price": "₹180",
+
+"description": "Fried corn kernels tossed in spices, a crunchy snack.",
+
+"tags": ["Vegetarian"],
+
+"image": "Crispy Corn.jpg"
+
+}
+
+]
+
+}
+
+]
+
+}
+

@@ -1,0 +1,32 @@
+/* Import Rustico font */
+@font-face {
+  font-family: "Rustico";
+  src: url("/fonts/rustico.woff2") format("woff2"), url("/fonts/rustico.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Define Helvetica font family */
+@font-face {
+  font-family: "Helvetica";
+  src: local("Helvetica"), local("Helvetica Neue");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: local("Helvetica Bold"), local("Helvetica-Bold"), local("Helvetica Neue Bold");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pacifico";
+  src: url("/fonts/pacifico.woff2") format("woff2"), url("/fonts/pacifico.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
